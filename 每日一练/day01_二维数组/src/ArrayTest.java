@@ -36,7 +36,7 @@ public class ArrayTest {
         boolean flag = find(num,arrs);
         if(flag)
             System.out.println("有");
-            System.out.println("git");
+            //System.out.println("git");
     }
 
     private static boolean find(int num,int[][] arrs) {
